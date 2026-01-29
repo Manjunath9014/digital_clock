@@ -1,0 +1,31 @@
+# 🕒 Digital Clock using Tkinter
+
+A simple digital clock application built with **Python Tkinter**.  
+This project displays the current time in `HH:MM:SS` format and updates every second.
+
+---
+
+## 📌 Features
+
+- Real-time digital clock display
+- Updates every second using `after()` method
+- Customizable font, colors, and window size
+- Minimal and clean UI with a black background and cyan text
+
+---
+
+## 🛠️ Requirements
+
+- Python 3.x
+- Tkinter (comes pre-installed with Python)
+
+---
+
+## 🚀 How to Run
+
+1. Clone or download this repository.
+2. Save the script as `digital_clock.py`.
+3. Run the script using:
+   ```bash
+   python digital_clock.py
+   ```
